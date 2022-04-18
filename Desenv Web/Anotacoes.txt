@@ -1,1 +1,165 @@
-primeiro passos
+Requistios basicos -> Familiariade com computadores, familiaridade com internet, familiaridade com smartphone.
+Historia
+1969. EUA. Arpanet. Departamento de defesa. Guerra fria, Interligar laboratorios, Primeiro e-mail.
+1982. Universidades. Holanda, Dinamarca e Suecia.
+1987. Liberado o uso comercial nos EUA.
+1992. CERN  cria a World Wide Web. Dados acessiveis a qulaquer pessoa com acesso à internet.
+No Brasil
+1988.FAPESP, UFRJ, LNCC.
+1994. Uso comercial na Embratel.
+Conexao discada
+2000. Banda larga.
+Qual o foi primeiro dominio criado?
+E o primero blog?
+Qual foi a primeira compra feita pela internet?
+Qual o site mais antigo em atividade?
+Parte Chave na internet
+Download/upload, navegador, banda larga, cache(é qdo o computador salva no computador para o link mais rapido), crack, email, emoticons/emoji,gif/jpg
+host- servidor
+HTML-linguagem de marcacao da internet
+HTTP-protocolo de internet
+ICONE
+LINK(LIGACAO)/URL(CHAMADA DE VIDEO,CAMINHO)
+LOGIN/LOGON
+LOGOUT/LOGOFF
+MP3
+MUITIMIDIA
+NICK
+ONline/offline, pixel, 
+spam,backup,blog, (cyber)bullying, 3G/4G/5G, cookie(Registro da pesquisa no computador), firewall, hacker, IP, Keylogger,Phishing,
+click bait, fake news, podcast, Vlog, pop-up, youtuber
+Internet atualmente-
+134 milhores de brasileiros tem acesso a internet (75%)
+Ha 10 anos apenas 41%
+Mulheres 74 % Homens 73%
+Area urbana: 77 % / Rural 53%
+97% das pessoas com Ensino Superior acessam
+16% de pessoas analfabetas ou com Ensino Infantil
+Menos d 1 SM? 61% 3-5 SN 86% 10 +Sm: 94%
+Empregados 81%
+Smartphones/tablets 99%
+computadores? 42%
+tv 37%
+Vidoe-games 9%
+Todo dia 90%
+Pelo menos uma vez por semana? 9%
+pelo menos uma vez por mes? 2%
+Recursos
+Whatsapp, skype, messenger 92%
+facebook Snapchat 76
+Chamada de video 73%
+Serviços eletronico 68%
+email 58%
+compras 39%
+listas ou forum 11%
+BUSCAS
+Produtos e serviços 59%, Saude 47%, Pesquisas escolares 41%, Estudo por conta propria 40%, Transações finaceiras? 33%, Trabalho 33%, Vaigens 31% , Armazenamento de dados 28%
+Atualmente na pandemia
+112% de aumento do começo ate agora
+40 a50 % maior do que no mesmo periodo de 2019
+Vm de download 21,9
+upload: 148Mbps
+
+
+O que sao Redes:
+Conexao de computadores conectado com um equipamento, que manda um pacote de todos, que é o backboner.
+Backbone
+Espinha dorsal, costelas, poucas, espalhadas pelo mundo.
+Provedor de acesso.
+Empresa telefonicas, contratam o sinal do backbone eo usuario final.
+Provedor de serviço.
+Dial-um ADSL(Banca larga), Fibra otica, Radio, Satelite, Movel, P2P (Peer to peer)
+Caminho inverso.
+www, DNS- transforma o www, em numero que é o IP, Classes de redes, 127.0.0.1(local hOst)
+o que é TCP/Ip
+É protocolos de comunicação entre computadoresem rede.
+Transmission Control Protocol -> Protocolo de Controle de transmissao.
+Internet Protocol -> Protocolo de internet
+Modelo de camadas TCP/IP
+Fisica(placa de rede), rede(IP), transporte(Tcp, upd), aplicação)(FTP, Smtp, UDP
+Diferenca entre Tcp xUdp
+Udp - Rapido, nao confiavel.
+TCP - Voltado a conexao, handshake, integridade, ordem dos dados, aplicativo de mensagens de texto.
+Portas
+As portas por onde dados sairao e chegarao.
+20:FTp, 22:SSH, 25:SMTP, 53:DNS, 80:HTTP, 443:HTTPS.
+Modem
+é uma junção do Modulator-demolutor.
+Hardware, que converte dados em um formato que possa ser transmitido de um computador para outro e lido por outro.
+Roteador.
+   Distribui internet para um ou mais dispositovos de uma rede, pode fazer a comunicação entre redes.
+Switch
+   Distribui internet para um ou mais dispositivos de uma rede.
+Celular, internet e outros dispositovos.
+Dados Moveis,
+SMS-É combrado pq fica troca, natarualmente, alguns bits com as torres de comunicação entre operadoras.
+MMS- Tranmissao de mensagens multimidia Audio e video.
+Conexoes Moveis.
+1G, 2G GSM, GPRS(General Packet Radio Service), EDGE)(Enhaced Data RAtes for Gsm Evolution)
+3G (7MBps), 4G (22,1Mbps), 5G (10Gbps)
+Wi-Fi.
+IEEE 802.11 OPERA 2,4 gHz,2 Mbps TRANSMISSAO DE VELOCIDADE.
+IEEE 802.11A OPERA  5GHZ, 54MBPS TRANSMISSAO DE VELOCIDADE.
+IEEE 802.11B OPERA  2,4GHZ, 11MBPS (DIMINUICAO DE INTERFERENCIA)
+IEEE 802.11G OPERA  2,4GHZ,  54MBPS TRANSMISSAO DE VELOCIDADE.
+IEEE 802.11N OPERA  2,4 GHZ, 5GMBPS, 150-600 TRANSMISSAO DE VELOCIDADE.
+Seguranca na internet.
+WEP: Chaves de 64bits e de 128 bits.
+WPA: chave trocada periodicamente.
+WPA2: (AES) (802.11i), +seguro e +processamento
+Dispositivos na rede
+Impressora, scanner chomecash
+Bluttooth.
+Faz conexao ponto a ponto sem conexao internet
+Browser, Sites, aplictivos e webserver.
+Browser -> Sabe indentivacar varias LP, linguagens de marcação, e conteudo de multimedia.
+Hoje, os browsers fazem muito mais que isso: existem plug-ins, ou add-ons, que ajuadam na navegação, cache e cookies.
+Site- Pagina da internet, varios tipos, podem ser feitas em diversas Linguagem programacao,
+Aplicativo é um software que é executado no navegador, um aplicativo de celular, muitas vezes, nada mais é do que uma especie de navegador.
+Hoje em dia, ja quase nao existe diferença entre site e aplicativo, e o primeiro esta em declinio.
+Outra diferença terminologica que esta sumindo é entre programa/software e aplicativo.
+E-commerce.
+e, assim como em e-email, siginifca eletronic
+Comercio eletronico, site de compra e venda com sistema de pagamento, o sistema de pagamento pode ser exterio ao site, picpay, boleto, pagseguro, paypal mercado pago.
+Web-server
+exitem 2 tipos estatico e dinamico.
+O estatico é um servidor fisico onde são armazenados arquivos, softwares e ou banco de dados, 
+O  dinamico se refere aos softwares que estao presentes no servidor fisico.
+  - Aquivos(file server), aplicações(Application server), Banco de dados (data base), 
+  - Um site ou aplicativo, precisa estar hospedado em um servidor para poder ser acessado.
+  - Os dados de um site precisam estar em um servidor.
+  - O banco de dados de um site ou aplicativo precisa estar em um servidor. 
+Web-Services é a interface disponivel para fazer requisições e consultas em banco de dados inacessiveis(correios, Governo)
+O que sao Stacks- 
+Stacks,Pilhas de tecnologia, é o conjunto de softwares necessarios e suficientes para executar um aplicativo/programa.
+linguagens de programacao
+ambientes e ferramentas de intereação com app/sw
+Capacidade e limitacao performace.
+Pontos fortes e frados do app/sw.
+Importancia.
+ - Os lideres de projetos precisam das informações das equipes de desenvolvimento.
+ - Os desenvolvedores precisam sabe as limitações e capacidades das ferramentas e ambientes que tem disponiveis.
+ - Sistemas de banco de dados, linguagens de programação, protocolos de comunicação.
+ - Estrategias de negocios, Maturidade, Contratações, planos de mitigações de riscos, aumento da capacidade, uso dos dados.
+
+Front-end
+ -Parte da frente. é a cara da pagina, ou aplicativo, 
+ -Site, software, aplicativo, web service.
+ -Interface, UI userinterface, UX user como 
+ -Logica de programção, HTMl, Css, JQuery/JS/Ajax/PHP, Bootstrap/outros frameworks.
+Exemplo: JQuery
+Back-end,
+ -Parte de tras.
+ - Servidores, banco de dados.
+ - Meio de campo entre a interface e banco de dados regras de negocios, vailidações.
+  - MYSql, Oracle, protocolos de comunicação, PHP< Java, node js(framework Java Script).
+Exemplo: bootstrapp, Jquery, webpack, type scripta, jest 
+Fullstack
+ - Profissional que sabe trabalhar em todas as camadas das tecnologias de desenvolvimento/execução de app/sw.
+
+
+
+
+
+ 
+ 
