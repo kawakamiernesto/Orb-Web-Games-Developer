@@ -1,8 +1,0 @@
-Backbone
-Espinha dorsal, costelas, poucas, espalhadas pelo mundo.
-Provedor de acesso.
-Empresa telefonicas, contratam o sinal do backbone eo usuario final.
-Provedor de serviço.
-Dial-um ADSL(Banca larga), Fibra otica, Radio, Satelite, Movel, P2P (Peer to peer)
-Caminho inverso.
-www, DNS- transforma o www, em numero que é o IP, Classes de redes, 127.0.0.1(local hOst)

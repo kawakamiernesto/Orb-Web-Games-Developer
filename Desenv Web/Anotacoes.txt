@@ -158,8 +158,15 @@ Fullstack
  - Profissional que sabe trabalhar em todas as camadas das tecnologias de desenvolvimento/execução de app/sw.
 
 
+Frameworks mais utilizados de front-end devenvovemento.
+Html -e CSS
+  Bootstrap, Bulma, JS foundation, Uikit
 
-
+Principais Linguagem de Progarmação
+Html, Css, JavaScript(jQuery, c, Ajax, diversas libs)
+PHP
+.Nef
+Ruby(on Rails), Python, Perl, C/C++ c#
 
  
  
